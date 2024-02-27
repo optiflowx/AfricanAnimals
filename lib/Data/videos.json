@@ -1,0 +1,62 @@
+[
+  {
+    "video": "assets/Videos/cheetah.mp4",
+    "name": "Cheetah",
+    "headline": "Cheetah walking in the savannah",
+    "thumbnail": "assets/Images/VideoThumbnail/cheetah.png"
+  },
+  {
+    "video": "assets/Videos/elephant.mp4",
+    "name": "Elephant",
+    "headline": "African elephant with calf walking",
+    "thumbnail": "assets/Images/VideoThumbnail/elephant.png"
+  },
+  {
+    "video": "assets/Videos/giraffe.mp4",
+    "name": "Giraffe",
+    "headline": "Lonely giraffe walking in the savannah",
+    "thumbnail": "assets/Images/VideoThumbnail/giraffe.png"
+  },
+  {
+    "video": "assets/Videos/gorilla.mp4",
+    "name": "Gorilla",
+    "headline": "Western lowland adult gorilla walking",
+    "thumbnail": "assets/Images/VideoThumbnail/gorilla.png"
+  },
+  {
+    "video": "assets/Videos/hippo.mp4",
+    "name": "Hippo",
+    "headline": "A cow hippo and her calf together in the water",
+    "thumbnail": "assets/Images/VideoThumbnail/hippo.png"
+  },
+  {
+    "video": "assets/Videos/lioness.mp4",
+    "name": "Lioness",
+    "headline": "African lioness slowly walking on the African savannah",
+    "thumbnail": "assets/Images/VideoThumbnail/lioness.png"
+  },
+  {
+    "video": "assets/Videos/lion.mp4",
+    "name": "Lion",
+    "headline": "Close-up of a growling African lion",
+    "thumbnail": "assets/Images/VideoThumbnail/lion.png"
+  },
+  {
+    "video": "assets/Videos/ostrich.mp4",
+    "name": "Ostrich",
+    "headline": "Cock ostrich grazing on the savannah",
+    "thumbnail": "assets/Images/VideoThumbnail/ostrich.png"
+  },
+  {
+    "video": "assets/Videos/rhino.mp4",
+    "name": "Rhino",
+    "headline": "Southern White Rhino walking in the grass",
+    "thumbnail": "assets/Images/VideoThumbnail/rhino.png"
+  },
+  {
+    "video": "assets/Videos/zebra.mp4",
+    "name": "Zebra",
+    "headline": "Adult striped zebra grazing rusty grass in summer",
+    "thumbnail": "assets/Images/VideoThumbnail/zebra.png"
+  }
+]

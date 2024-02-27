@@ -1,0 +1,30 @@
+[
+  {
+    "id" : 1,
+    "name" : "assets/Images/Cover/cover-lion.jpg"
+  },
+  {
+    "id" : 2,
+    "name" : "assets/Images/Cover/cover-elephant.jpg"
+  },
+  {
+    "id" : 3,
+    "name" : "assets/Images/Cover/cover-cheetah.jpg"
+  },
+  {
+    "id" : 4,
+    "name" : "assets/Images/Cover/cover-zebra.jpg"
+  },
+  {
+    "id" : 5,
+    "name" : "assets/Images/Cover/cover-buffalo.jpg"
+  },
+  {
+    "id" : 6,
+    "name" : "assets/Images/Cover/cover-giraffe.jpg"
+  },
+  {
+    "id" : 7,
+    "name" : "assets/Images/Cover/cover-gorilla.jpg"
+  }
+]

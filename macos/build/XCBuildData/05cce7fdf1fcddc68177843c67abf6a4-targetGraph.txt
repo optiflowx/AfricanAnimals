@@ -1,0 +1,28 @@
+Target dependency graph (10 targets)
+FlutterMacOS in Pods, no dependencies
+Reachability in Pods, no dependencies
+connectivity_macos in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+Reachability in Pods (explicit)
+kraken in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+kraken_video_player in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+macos_ui in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+shared_preferences_macos in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+url_launcher_macos in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+wakelock_macos in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+Pods-Runner in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+Reachability in Pods (explicit)
+connectivity_macos in Pods (explicit)
+kraken in Pods (explicit)
+kraken_video_player in Pods (explicit)
+macos_ui in Pods (explicit)
+shared_preferences_macos in Pods (explicit)
+url_launcher_macos in Pods (explicit)
+wakelock_macos in Pods (explicit)
